@@ -1,0 +1,15 @@
+[
+ {
+    "hash": "051122",
+    "decodedHash": [{ "0": 5 }, { "1": 1 }, { "2": 2 }],
+    "edition": 1,
+    "date": 1630860136653,
+    "desription": "Lukas Tigers and Brons NFTs",
+    "image": "https://drive.google.com/file/d/1opVc204jvUtCfE5lD7GiS8Df5wtU300V/view?usp=sharing",
+    "attributes": [
+      { "id": 5, "layer": "background", "name": "black", "rarity": "original" },
+      { "id": 1, "layer": "head", "name": "head1", "rarity": "original" },
+      { "id": 2, "layer": "access", "name": "acess2", "rarity": "original" }
+    ]
+  }
+  ]

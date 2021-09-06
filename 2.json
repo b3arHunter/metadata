@@ -1,0 +1,15 @@
+[
+ {
+    "hash": "051122",
+    "decodedHash": [{ "0": 5 }, { "1": 1 }, { "2": 2 }],
+    "edition": 2,
+    "date": 1630860136653,
+    "desription": "Lukas Tigers and Brons NFTs",
+    "image": "https://ipfs.io/ipfs/QmTm7cutuXCZ7GGqBsnSJY6baWV5G1r1Ar1jruye7K3Yvq?2.png",
+    "attributes": [
+      { "id": 5, "layer": "background", "name": "black", "rarity": "original" },
+      { "id": 1, "layer": "head", "name": "head1", "rarity": "original" },
+      { "id": 2, "layer": "access", "name": "acess2", "rarity": "original" }
+    ]
+  }
+  ]
